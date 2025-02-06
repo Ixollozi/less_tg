@@ -3,7 +3,7 @@ import buttons, database
 
 
 # Создаем объект бота
-bot = telebot.TeleBot('7864118054:AAFdpvfFsiOlzUtBAez5bNg-95NlVuuoOXs')
+bot = telebot.TeleBot('')
 # Хранилища временных данных
 users = {}
 admins = {}
